@@ -1,7 +1,9 @@
 
 # 🔬 Active Learning for Urine Sediment Classification
 
-This repository implements an uncertainty-driven active learning pipeline for improving model performance on urine sediment classification while minimizing manual labeling effort. The framework combines uncertainty estimation, sample selection, and human-in-the-loop annotation to target the most informative data for labeling.
+This repository implements an uncertainty-driven active learning pipeline for improving model performance on urine sediment classification while minimizing manual labeling effort. The framework combines uncertainty estimation, sample selection, and human-in-the-loop annotation to target the most informative data for labeling. 
+
+Please be noted, out of intellectual property protection, here we are not sharing the model and data related files, but only the active learning algorithms.
 
 ## 📜 Overview
 
@@ -91,7 +93,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you use this code or method, please cite:
 
-> Hang Deng, Vivek Venkatachalam. *Uncertainty-guided Active Learning for Efficient Urine Sediment Classification.*
+> Hang Deng, Vivek Venkatachalam. *Algorithms for 3D Neuron Tracking and Identification in \textit{C.~elegans}, and Key Points Detection.*
 >
 > [Thesis Chapter 4, 2025]
 
