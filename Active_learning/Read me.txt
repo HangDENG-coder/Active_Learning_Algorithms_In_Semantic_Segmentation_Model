@@ -1,0 +1,8 @@
+Read me.txt
+The main code: Active_learning_main_code.py
+
+The code runs on cuda
+
+If you are using the old camera data from the folder /data_06-09-22, using the original file in acquisition_fuc.py
+
+Else using the high-resolutional images from the new camera, using the file acquisition_fuc_new_camera.py
